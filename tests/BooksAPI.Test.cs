@@ -1,4 +1,4 @@
-public class BooksControllerTest
+public class BooksAPITest
 {
     BooksController _controller;
     IBookService _service;
